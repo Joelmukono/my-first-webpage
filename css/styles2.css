@@ -1,0 +1,13 @@
+h1{
+  font-weight: normal;
+}
+li{
+  background-color: blue;
+}
+ul{
+  background-color: red;
+}
+
+img{
+  display:inline-block;
+}

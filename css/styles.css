@@ -1,0 +1,33 @@
+h1{
+  color:blue;
+  text-align:center;
+}
+h2{
+  color:green;
+  font-style:italic;
+  text-align: center;
+}
+p{
+  font-family:sans-serif;
+}
+ul{
+  line-height: 40px;
+  color:white;
+  font-size:20px;
+}
+body{
+    background-color: grey;
+}
+ol{
+  font-family:Arial;
+  color:white;
+  font-style:italic;
+  line-height: 30px;
+
+}
+em{
+  font-weight:bold;
+}
+strong{
+  font-style: italic;
+}
